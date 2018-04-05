@@ -1,5 +1,5 @@
 # ContactManager
-Contact Manager using Angular.js and Firebase ( and AngularFire )
+Contact Manager using Angular.js and Firebase ( with AngularFire )
 
 
 AngularJS is a JavaScript-based front-end web application framework mainly maintained by Google to develope single-page applications. It aims to simplify both the development and the testing of such applications by providing a framework for client-side model–view–controller (MVC) and model–view–viewmodel (MVVM) architectures( also defined MVW, Model-View-Whatever), along with components commonly used in rich Internet applications.
