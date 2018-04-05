@@ -12,3 +12,8 @@ Firebase provides a realtime database: it possible to sync data in real time wit
 Firebase provides also dynamic web hosting service, contact manager url: https://contactmanager-c09ce.firebaseapp.com
 
 AngularFire is the officially supported AngularJS binding for Firebase. The combination of Angular and Firebase provides a three-way data binding between your HTML, your JavaScript, and the Firebase database.
+
+
+--Observation--
+
+Being a small web project, there isn't a style.css file but it has been used the mode "Inline CSS".
